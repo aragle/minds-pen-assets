@@ -1,5 +1,4 @@
 # minds-pen
 
-![1](https://github.com/aratheunseen/minds-pen/assets/62181222/e6261508-c9dd-4c3b-80cb-1fb3064d02a6)
-
-![2](https://github.com/aratheunseen/minds-pen/assets/62181222/5d1f130e-de7a-4104-a09e-850f3a54644f)
+![1](https://github.com/aragle/minds-pen/assets/62181222/9ec613e8-40ae-4700-b21c-0a686bcfc896)
+![2](https://github.com/aragle/minds-pen/assets/62181222/c0ab2296-8bcf-4220-81fb-7594a53b1e79)
